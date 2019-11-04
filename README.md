@@ -1,0 +1,2 @@
+# BlendModeTest
+ブレンドモード
